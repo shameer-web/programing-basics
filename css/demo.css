@@ -1,0 +1,33 @@
+.header {
+    width: 100%;
+    height: 150px;
+    background: firebrick;
+}
+
+.left-section {
+    width: 20%;
+    float: left;
+    height: 400px;
+    background: deeppink;
+}
+
+.right-section {
+    width: 80%;
+    float: left;
+    height: 400px;
+    background: chartreuse;
+}
+
+.body {
+    height: 400px;
+}
+
+.footer {
+    height: 150px;
+    width: 100%;
+    background: crimson;
+}
+
+body {
+    margin: 0px;
+}

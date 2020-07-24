@@ -1,0 +1,153 @@
+.header {
+    background: #3B5998;
+    width: "100%";
+    height: 85px;
+}
+
+body {
+    margin: 0px;
+    font-family: Helvetica Neue, Helvetica, Arial, Helvetica, sans-serif;
+}
+
+.logo {
+    width: 50%;
+    padding-top: 30px;
+    float: left;
+}
+
+.login {
+    width: 50%;
+    float: left;
+    padding-top: 10px;
+}
+
+.logo-text {
+    font-size: 40px;
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica Neue, Helvetica, Arial, Helvetica, sans-serif;
+    margin-left: 178px;
+    margin-top: 10px;
+}
+
+.login-label {
+    color: #fff;
+    font-size: 15px;
+}
+
+.login-controls {
+    margin-left: 110px;
+}
+
+.sub-btn {
+    background: #4267b2;
+    color: #fff;
+    height: 20px;
+    border-color: #29487d;
+    cursor: pointer;
+}
+
+.forgotten {
+    color: #fff;
+    font-size: 11px;
+    text-decoration: none;
+}
+
+.sub-btn:hover {
+    background: darkblue;
+}
+
+.left-section {
+    width: 50%;
+    float: left;
+    padding-left: 134px;
+    padding-top: 53px;
+}
+
+.right-section {
+    width: 40%;
+    float: left;
+}
+
+.main-body {
+    background: linear-gradient(white, #d3d8e8);
+    height: 700px;
+    width: 100%;
+}
+
+.image {
+    width: 581px;
+}
+
+.para {
+    font-weight: bold;
+    font-size: 21px;
+}
+
+.head1 {
+    font-size: 40px;
+    font-weight: bold;
+    font-family: inherit;
+}
+
+.para1 {
+    font-weight: 500;
+    font-size: 22px;
+    margin-top: -21px;
+}
+
+.input {
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.input1 {
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    width: 79%;
+}
+
+.select {
+    height: 27px;
+}
+
+.label {
+    color: darkgrey;
+    font-weight: bold;
+}
+
+.label1 {
+    font-weight: 15px;
+}
+
+.para2 {
+    font-size: 12px;
+}
+
+.href {
+    text-decoration: gray;
+}
+
+.main-sub {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 40%;
+}
+
+.para3 {
+    font-size: 14px;
+}
